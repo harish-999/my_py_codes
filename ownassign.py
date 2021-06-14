@@ -1,0 +1,5 @@
+inpu = input("Hello Harish")
+age = input("what's is your age?")
+x= int(age)
+print('oh your are',x)
+print('cool')
